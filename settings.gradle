@@ -1,0 +1,2 @@
+rootProject.name = "Aula3_GoogleMapsSnippets"
+include ':app'
